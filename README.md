@@ -1,12 +1,12 @@
 <h1 align="center">
   <div>
-    <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="" />
+    <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="PJAIT logo" />
   </div>
   Py-restaShopTest
 </h1>
 
-Repozytorium zawiera projekt końcowy z zajęć praktycznych z PPY (Podstawy Programowania w Pythonie) odbytych podczas
-studiów na [PJATK](https://www.pja.edu.pl/).
+Repozytorium zawiera projekt końcowy z zajęć praktycznych z PPY (Podstawy Programowania w Pythonie) prowadzonych przez
+Grzegorza Sochaja podczas studiów na [PJATK](https://www.pja.edu.pl/).
 
 Kod jest rozpowszechniany na licencji [GPLv3](./LICENSE).
 
