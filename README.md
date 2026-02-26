@@ -5,8 +5,8 @@
   Py-restaShopTest
 </h1>
 
-Repozytorium zawiera projekt końcowy z zajęć praktycznych z PPY (Podstawy Programowania w Pythonie) prowadzonych przez
-Grzegorza Sochaja podczas studiów na [PJATK](https://www.pja.edu.pl/).
+Repozytorium zawiera projekt końcowy z zajęć praktycznych z [PPY](https://github.com/itisarchive/itis-PPY) (Podstawy
+Programowania w Pythonie) prowadzonych przez Grzegorza Sochaja podczas studiów na [PJATK](https://www.pja.edu.pl/).
 
 Kod jest rozpowszechniany na licencji [GPLv3](./LICENSE).
 
