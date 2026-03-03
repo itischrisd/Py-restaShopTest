@@ -2,7 +2,7 @@
   <div>
     <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="PJAIT logo" />
   </div>
-  Py-restaShopTest
+  Presta Shop Test
 </h1>
 
 Repozytorium zawiera projekt końcowy z zajęć praktycznych z [PPY](https://github.com/itisarchive/itis-PPY) (Podstawy
